@@ -1,4 +1,4 @@
-# DESAFIO 02 - Quien es Mayor
+# DESAFIO 03 - While por do While
 
 ## Descripcion
 Se deben desarrollar 4 ejercicios aplicando ciclos:
